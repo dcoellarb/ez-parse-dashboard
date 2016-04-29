@@ -1,0 +1,22 @@
+{
+    "apps": [
+        {
+            "serverURL": "http://localhost:1337/parse",
+            "appId": "2hLYHTAUJ9QXMWxQTXsOIZ2jXJLGtMauw2QN34fE",
+            "masterKey": "oqmfNH1EzA8KQM32DpWYlG2CXTJAcKs7ewVAgtUL",
+            "appName": "local-easyrutaQA"
+        },
+        {
+            "serverURL": "http://parseserverqa.zkr8u4mwnu.us-east-1.elasticbeanstalk.com/parse",
+            "appId": "2hLYHTAUJ9QXMWxQTXsOIZ2jXJLGtMauw2QN34fE",
+            "masterKey": "oqmfNH1EzA8KQM32DpWYlG2CXTJAcKs7ewVAgtUL",
+            "appName": "easyrutaQA"
+        },
+        {
+            "serverURL": "http://parseserver.spayurztpa.us-east-1.elasticbeanstalk.com/parse",
+            "appId": "wJjWR5KTriUoPNnDH3baAQMkWvpAhuFhNU7PsKOP",
+            "masterKey": "T6191e7kPbR9ksx93YEaXS2Jgyc67M6IdcdT8JXE",
+            "appName": "easyruta"
+        }
+    ]
+}
